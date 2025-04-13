@@ -23,6 +23,17 @@ Before running this project, ensure you have:
 - The Spring Boot backend API running
 - API credentials if applicable (e.g., for authentication)
 
+## Add Contact
+<img src="add-0.png" alt="add contact">
+
+<img src="add-1.png" alt="add contact">
+
+## Add Campaign
+<img src="add-campaign.png" alt="add campaign">
+
+## Update user account
+<img src="account.png" alt="add account">
+
 ## Installation
 1. Clone the repository:
    ```bash
